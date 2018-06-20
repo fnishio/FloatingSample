@@ -1,4 +1,4 @@
-package jp.gr.com.example.sample.floating
+package com.example.floating
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -17,6 +17,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("jp.gr.java_conf.fofn.sample.floating", appContext.packageName)
+        assertEquals("com.example.floating", appContext.packageName)
     }
 }

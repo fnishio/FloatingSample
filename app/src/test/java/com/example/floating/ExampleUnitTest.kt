@@ -1,4 +1,4 @@
-package jp.gr.com.example.sample.floating
+package com.example.floating
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
