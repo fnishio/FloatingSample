@@ -1,6 +1,5 @@
 package jp.gr.java_conf.fofn.sample.floating
 
-import android.content.Context
 import android.graphics.PixelFormat
 import android.util.Log
 import android.view.Gravity
