@@ -1,4 +1,4 @@
-package jp.gr.java_conf.fofn.sample.floating
+package com.example.floating
 
 import android.content.Intent
 import android.net.Uri

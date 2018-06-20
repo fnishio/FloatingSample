@@ -1,4 +1,4 @@
-package jp.gr.java_conf.fofn.sample.floating
+package jp.gr.com.example.sample.floating
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
